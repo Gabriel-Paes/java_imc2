@@ -1,6 +1,8 @@
-## Getting Started
+## IMC
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esse é o segundo código com classes. Usado para descobrir o IMC, Classificação Corporal e a Idade.
+
+- Desenvolvido em Java ☕
 
 ## Folder Structure
 
